@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 60vh;
+}
+
+main div{
+    background: #ddd;
+    
+    
+}
+
+main div p{
+    text-align: center;
+    
+}
+
+main div input{
+    display: block;
+    margin: auto;
+    width: 35%;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn button{
+   padding: 5px;
+   width: 150px;
+    
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+    height: 20vh;
+    
+   
+}
+
+section{
+    background-color: #319DA0;
+    border: 1px solid #fff;
+}
+.bir{
+   
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    background-color: #ccc;
+   
+}
+
+footer p{
+    text-align: center;
+    
+}
